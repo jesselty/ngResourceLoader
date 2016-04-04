@@ -7,7 +7,7 @@
  * # tyShowImgOnLoad
  */
 ! function(window, angular, undefined) {
-    angular.module('resource.loader')
+    angular.module('resource.loader',[])
         .directive('tyShowImgOnLoad', ['$window', '$timeout', function($window, $timeout) {
             var tyShowImgOnLoad = {
                     scope: {
