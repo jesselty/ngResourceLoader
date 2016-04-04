@@ -1,0 +1,26 @@
+{
+    "name": "resourceLoader",
+    "authors": [
+        "Jessel John <jesseljohn130@gmail.com>"
+    ],
+    "description": "Load resources asynchronously",
+    "main": [
+        "src/imageloader.js",
+        "src/imageloader.scss"
+    ],
+    "moduleType": [],
+    "keywords": [
+        "image",
+        "lazyload",
+        "async"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
