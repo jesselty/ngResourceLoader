@@ -16,6 +16,9 @@
     ],
     "license": "MIT",
     "homepage": "",
+    "dependencies": {
+        "angular": "^1.5.2"
+    },
     "ignore": [
         "**/.*",
         "node_modules",
