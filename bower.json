@@ -1,5 +1,6 @@
 {
-    "name": "resourceLoader",
+    "name": "ngResourceLoader",
+    "version": "0.0.1",
     "authors": [
         "Jessel John <jesseljohn130@gmail.com>"
     ],
